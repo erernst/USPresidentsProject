@@ -20,6 +20,7 @@ import com.mazoo.pres.data.PresidentDAO;
 public class PresidentServlet extends HttpServlet {
 	private PresidentDAO presDAO;
 	private List<President> curList;
+	private int presIndex = 0;
 	
 	public void init() throws ServletException {
 		presDAO = new PresidentDAO(getServletContext());
@@ -30,17 +31,19 @@ public class PresidentServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		String typeSearch = req.getParameter("presSubmit");
-		int presIndex = 0;
+		presIndex = 0;
 		switch (typeSearch) {
 		case "all presidents":
-			curList = presDAO.getAllPres();
+			curList = new ArrayList<>(presDAO.getAllPres());
 			break;
 		case "filter":	
-			curList = listFilter(typeSearch);
+			curList = new ArrayList<>(listFilter(req.getParameter("filterVal")));
+			System.out.println(curList.get(0).getName());
 //			presIndex = Integer.parseInt(req.getParameter("term"));
 			break;
 		case "go to":
-			curList = presDAO.getAllPres();
+			curList = new ArrayList<>(presDAO.getAllPres());
+			presIndex = Integer.parseInt(req.getParameter("term")) - 1;
 			break;
 		}
 		req.setAttribute("pres", curList.get(presIndex));
@@ -49,7 +52,6 @@ public class PresidentServlet extends HttpServlet {
 	
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		String incOrDec = req.getParameter("cycle");
-		int presIndex = 0;
 		switch (incOrDec) {
 		case "increment":
 			if(presIndex == curList.size() -1) {				
