@@ -34,14 +34,10 @@ public class PresidentDAO {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			System.err.println(e);
-		}
-		
-		
+		}	
 	}
 
 	public List<President> getAllPres() {
 		return allPres;
 	}
-	
-
 }

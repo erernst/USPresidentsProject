@@ -53,14 +53,14 @@ public class PresidentServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		String incOrDec = req.getParameter("cycle");
 		switch (incOrDec) {
-		case "increment":
+		case "Next President":
 			if(presIndex == curList.size() -1) {				
 				presIndex = 0;
 			} else {
 				presIndex++;
 			}
 			break;
-		case "decrement":
+		case "Previous President":
 			if(presIndex == 0) {				
 				presIndex = curList.size() - 1;
 			} else {

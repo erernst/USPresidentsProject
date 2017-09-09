@@ -1,5 +1,45 @@
-1,George Washington,1789,1859,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg,Fun fact about gw,Republican
-2,Mustafa Washington,1789,1859,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg,Fun fact about gw,Democrat
-3,DAvid Washington,1789,1859,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg,Fun fact about gw,Democrat
-4,Erik Washington,1789,1859,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg,Fun fact about gw,Whig
-5,Erika Washington,1789,1859,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg,Fun fact about gw,Whig
+1,George Washington,1789,1797,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSH-V8fAV7mvguXmVV9s-P_Oylnd0RpMn3_VA3fv-r55AukIVPm9ca6wLzOyRt_0FoLDk,Fun fact about gw,Federalist
+2,John Adams,1797,1801,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_BoE2aYW4IZUIkkBPpMoR4uOjlFUjSQYVuRbiIOWKIffU152azfxgdzZxOjBafAAZRc,Fun fact about gw,Federalist
+3,Thomas Jefferson,1801,1809,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7J3OForvCex3Rkuo7iC_wf8-_ZXjzZ_zzHYcwkVD824MkGtmdL_BYpHzRg-qs3_sWKY,Fun fact about gw,Democratic-Republican
+4,James Madison,1809,1817,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR568fzFNIm59yxIquIiXWSSwcYZUVLNh_-MgOChJ0iPSkouP7jgzY,Fun fact about gw,Democratic-Republican
+5,James Monroe,1817,1825,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkpQejq3koA0L04EZj4Fjdur79OcD6eeSoWU41gTXT2ZwxTPNfI6wbAAbceZfuqbVvr8,Fun fact about gw,Democratic-Republican
+6,John Quincy Adams,1825,1829,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNiLOquVSyX4E0utE9tJNfMFNwREIts-uF7pUZI94b65JsOCDD_K5C8Egc897p8UiihrI,Fun fact about gw,Democratic-Republican
+7,Andrew Jackson,1829,1837,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZ8sw5uqAb5V6pmKL4yLOVdAc_0DuGSbSfh6YmefDSB8kGaA1-m3RL0BvB1HOKx-tQcA,Fun fact about gw,Democrat
+8,Martin Van Buren,1837,1841,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfWkJ5cK9NZwMNJAa529SqEiGK6Eyt2HIrePafaB_PsvW9JAY1Yk-GZEzACoVMtyv9Es,Fun fact about gw,Democrat
+9,William Henry Harrison,1841,1841,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Wwsq7iZZobvvowO7WACmzS-BzxHg3k4xAld028QOwG2t7zPOqe6gR6UqGCuuTK_3Fo8,Fun fact about gw,Whig
+10,John Tyler,1841,1845,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfqeFwjlmMOuYk9-6Wi0g3VfUv_V5WLt-kDh02XBKGFQ-PJ6RlMqskwtKmC7G9m7Gb-Q,Fun fact about gw,Whig
+11,James K. Polk,1845,1849,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5YlfM-ixmQGFcj7UPST3j5nrWFN6yoPO0Id7wlxtGaRINVzrCcsIioocHA5xx6TOx87Q,Fun fact about gw,Democrat
+12,Zachary Taylor,1849,1850,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAaMaVu-RMedv_Gywe-WOnKODtI2GU0MF2-sTxXxQTMfrFeIJePQFKKBQulNh6kHyi1uw,Fun fact about gw,Whig
+13,Millard Filmore,1850,1853,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRysI-fM0IWhnQkUrJz9M9qaRmNb81Mq95q94Ivx6_-ApjxwVN9u5hcQDfzmUQG_IWn6II,Fun fact about gw,Whig
+14,Franklin Pierce,1853,1857,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgJgK2hiRLfegF280HCbvgCn3wRJ4x_u7qNiynJtul5YgKT8_hhMDgAxmKxuhe6VUS44,Fun fact about gw,Democrat
+15,James Buchanan,1857,1861,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xc945BDLygBc0IJDUic_SZUcd0Vtgdo6ilt6am2nI6-ZhLnf2RADD8NNBn700iXTfeg,Fun fact about gw,Democrat
+16,Abraham Lincoln,1861,1865,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjr7wUIQPenRK1M6J_aIWA9z8SLZ_AFLz5z6-m2CQVCQZ47ViZjM0eNGOym_60KKKt8g,Fun fact about gw,Republican
+17,Andrew Johnson,1865,1869,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PDPSZ58ScSSeqemTdJLx2wLvzAFZiyIdkXwiuyhuk1noJrfLrIzQicxVTXcbs2RHFAE,Fun fact about gw,National Union
+18,Ulysses S. Grant,1869,1877,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNq7qXOFRomtXE2tq8beiIpYYX1iaDlGCHmS-K4w6KVaOkNnP9Ku3dLtMxFSQCfnHznh0,Fun fact about gw,Republican
+19,Rutherford B. Hayes,1877,1881,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YrL--yfI9w-DA6OoTELjFTUDfbpxQOGlEHFWDEO06v7qgQWOVbHcFX_2fEqa-kFhOqQ,Fun fact about gw,Republican
+20,James A. Garfield,1881,1881,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnkWxUWvt89xPLASWdStXH2MQeFihXcW0qzHNjyF47eg6hGwkx2l44uZvBRRkZCO3EgI,Fun fact about gw,Republican
+21,Chester A. Arthur,1881,1885,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_oQ72RTvPU51cndc_dVTR0N0R5EibdLK-aTaljVH4XzX0ybW2EMFI9E4YaHlVxZ3K_6M,Fun fact about gw,Republican
+22,Grover Cleveland,1885,1889,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2ZInHUxk9-WUGXy54vgpdKwfSXX6Gq6T0RJbLocE_XZzMRjMm3cCqViaEz3acUe9uvc,Fun fact about gw,Democrat
+23,Benjamin Harrison,1889,1893,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lyi8rMfryWtaqa6-JRr_yKUvjNI1NGwWo_PXZsJrFsf6KrH-KhF6ubgcv4elqaa6_04,Fun fact about gw,Republican
+24,Grover Cleveland,1893,1897,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfLifu51yCixxOxoMH0gMC5P0GjszblMK5lKUb8DvSr_awy0dnx3Kx9-7ra3kv-X9PKc,Fun fact about gw,Democrat
+25,William Mckinley,1897,1901,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/165px-Mckinley.jpg,Fun fact about gw,Republican
+26,Theodore Roosevelt,1901,1909,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcPRslBFHi7sDUQtAvocURH7-ugZlzWrAhrUN4Pg_whNyYKTA1RvsfeqzKA8oh5EuIxI,Fun fact about gw,Republican
+27,William Howard Taft,1909,1913,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZWkF_6d5WtSRwlwnwyEXICWlCO00PKS4N0CVQtI7hd5APA53bNcOjsc9rAXYzBue_Od4,Fun fact about gw,Republican
+28,Woodrow Wilson,1913,1921,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXbcKAcJb58dHrUSbvV6lYfjz9MnZxbaa8FGNAOdyDVhg6kXs_SxdSZlTq8dypCiItDk,Fun fact about gw,Democrat
+29,Warren G. Harding,1921,1923,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzI6jGsoz4m3ncRyrZ01RRax-RpAaJUOYxZ6722N6Kd2gRF6FT1oVd4xyVACwIidkFDEw,Fun fact about gw,Republican
+30,Calvin Coolidge,1923,1929,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPUm1WvCg6l5jwvdBeCCRgYOHC1siXAM3XdVMq-2kKGTD45nxKb0mHAqhe3SZ6I1ukcg,Fun fact about gw,Republican
+31,Herbert Hoover,1929,1933,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIiDufekcGVe-cr-ZA0VxpewgHDursumiBkyVHkSn6QlXai3vRQM0K8Hryc0n4uY5Yu4,Fun fact about gw,Republican
+32,Franklin D. Roosevelt,1933,1945,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8z4QQy5qAZXrA8E7yrH7x2vYdgDvBGtQTSG1if_QJesyVgtXNk1Y73N9wodbVNt3a64,Fun fact about gw,Democrat
+33,Harry S. Truman,1945,1953,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3tfWk2_y4PKx0VpyTWTtCj6qzBF943ILTYJ8ategqMr_UTD0n7T0eqk1fOKSVDZ-4aU,MISSOURIAN,Democrat
+34,Dwight D. Eisenhower,1953,1961,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b3GqOtRDw0kOUe5Uncc9GMFtZ0as-7J5U5lIHcy26JzcGvGFNDmNVTugbkfxARE2u2M,Fun fact about gw,Republican
+35,John F. Kennedy,1961,1963,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWgu9L80ycOQq6Ivw7bxZqcSeMm2lJkrzj7axKa_sYS8FmfW143nYyi2mN0AWd1z8HkA,Fun fact about gw,Democrat
+36,Lyndon B. Johnson,1963,1969,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90dAdGqD1F4TrFInZ2__MZc4DPxdbZ36_plIHoFDykH5A8H077jBsYsdyt0UkfHy4hNs,Fun fact about gw,Democrat
+37,Richard Nixon,1969,1974,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.tif/lossy-page1-165px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.tif.jpg,Fun fact about gw,Republican
+38,Gerald Ford,1974,1977,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gerald_Ford_-_NARA_-_530680.tif/lossy-page1-165px-Gerald_Ford_-_NARA_-_530680.tif.jpg,Fun fact about gw,Republican
+39,Jimmy Carter,1977,1981,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/165px-JimmyCarterPortrait2.jpg,Fun fact about gw,democrat
+40,Ronald Reagan,1981,1989,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmEy_PG7KHUtpSvadgvTFsGpeGpf3_luBP08lTglmOZ3tV3iLYPba7-wLVuoMtW7_y51s,Fun fact about gw,Republican
+41,George H.W. Bush,1989,1993,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQYwQlIhCZdx8vbb4VBIVMsaYAbuCIX80MBJLlpHaIzXTqFvLrGw-LubHwquhndGl7RY,Fun fact about gw,Republican
+42,Bill Clinton,1993,2001,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/165px-Bill_Clinton.jpg,Fun fact about gw,Democrat
+43,George W. Bush,2001,2009,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zcwZR-aGSdKkeogcNhJ7M3qu9MODR9m8b1wN_kdhv8sspseox9Dju44_uwvb-H_Y5gE,Fun fact about gw,Republican
+44,Barrack Obama,2009,2017,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS139J2q8VQpTwDr33mC9913TlYLIfd75Ss8_3eFv18x-vWDMwkiws,Fun fact about gw,Democrat
+45,Donald Trump,2017,2017,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqdCK7NurSqmMGV3NHwu0baTF5hTmZcHn675o-zV8HLjiMB4wQtzllPqLCwQCCRHb_2M,Fun fact about gw,Republican
