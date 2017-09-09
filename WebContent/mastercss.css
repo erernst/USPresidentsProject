@@ -38,8 +38,11 @@
 	margin: 0 auto;
 	box-shadow: 5px 5px 5px black;
 }
+.presname{
+	font-size: 1.7em;
+}
 .jsp-pres-info{
-	width: 400px;
+	width: 100%;
 	margin: 0 auto 30px auto;
 	color: white;
 	text-shadow: 2px 2px 2px black;
@@ -59,13 +62,22 @@
 	text-decoration: underline;
 }
 .form input{
-	width: 33%;
+	width: 30%;
 }
 .form input:hover{
 	color: white;
 	background-color:red;
 }
 .bodyclass{
-	background-color: #428bca;
+	background-image: url("https://www.gannett-cdn.com/-mm-/97cd1f6bc00e02cc68d64bb5b2c3f6b95d0c3883/c=0-208-2000-1336&r=x803&c=1600x800/local/-/media/USATODAY/USATODAY/2014/02/15//1392503885000-AP-Oval-Office-Decor.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jsp-container{
+	width: 50%;
+	margin: auto;
+	/*background-color: grey;*/
+	padding: 2%;
+	background-color: rgba(100, 100, 100, .7);
 }
 
