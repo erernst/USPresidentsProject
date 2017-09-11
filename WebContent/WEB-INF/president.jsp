@@ -24,7 +24,7 @@
 
 		</div>
 		<div class="form">
-			<form action="something.do" method="GET">
+			<form action="something.do" method="POST">
 				<input type="submit" name="cycle" value="Previous President">
 				<input type="submit" name="cycle" value="Next President">
 			</form>
