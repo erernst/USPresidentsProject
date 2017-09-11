@@ -17,7 +17,7 @@
 
 			<img src="${pres.imgURL}" class="presIMG">
 			<p class="presname">${pres.name}</p>
-			<p>${pres.sYear}- ${pres.eYear}</p>
+			<p>${pres.sYear} - ${pres.eYear}</p>
 			<p>${pres.party}</p>
 			<p>${pres.fact}</p>
 			<br>

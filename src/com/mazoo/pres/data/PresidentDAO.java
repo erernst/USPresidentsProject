@@ -11,7 +11,7 @@ import javax.servlet.ServletContext;
 
 public class PresidentDAO {
 	
-	private String fileName = "/WEB-INF/presData.txt";
+	private String fileName = "/WEB-INF/presData2.txt";
 	private List<President> allPres;
 	private ServletContext context;
 	
