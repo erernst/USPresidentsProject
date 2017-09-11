@@ -1,15 +1,15 @@
 #top {
-  background-image: url("http://www.addcovers.com/covers/fta1li0etx0hz.jpg");
+  background-image: url("http://static.panoramio.com/photos/large/37112805.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 1%;
 }
 
 #title {
-	color:#428bca;
-	text-shadow: 1px 1px white;
+	color: white;
 	font-weight: bold;
-	margin-left: 3%;
+	margin-right: 3%;
+	text-align: right;
 	margin-bottom: 0;
 }
 
