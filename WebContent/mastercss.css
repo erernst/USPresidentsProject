@@ -5,6 +5,12 @@
   padding-top: 1%;
 }
 
+form {
+	border : solid 5px black;
+	background: black;
+	padding : 1px;
+}
+
 #title {
 	color: white;
 	font-weight: bold;
